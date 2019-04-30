@@ -1,4 +1,4 @@
-# shortening url service
+# Shortening Url Service
 
 Service to generate an output shorten URL from an input long URL.
 
