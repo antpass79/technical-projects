@@ -1,6 +1,6 @@
 # technical-projects
 
-collection of projects under a architectural point of view.
+This repository provides different projects used for studying new architectures, concepts, frameworks or other.
 
 ## List of projects
 
